@@ -1,0 +1,3 @@
+Neste semestre, estendi meus conhecimentos em Python, Javascript, HTML e CSS.
+Além disso, aprendi muito sobre o universo da Matemática com Cálculo.
+Não menos importante, aprendi sobre hardware e software de computadores e montagem de circuitos usando Arduino.
